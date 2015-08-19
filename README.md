@@ -1,11 +1,11 @@
 Servicio social
 ===============
 
-Una introducción a Python, CUDA y PyCUDA para científicos, en español. Archivos .tex y notebooks.
+Una introducción a CUDA C para científicos, en español.
 
 
-Estas notas están siendo escritas en 2014 en la Facultad de Ciencias de la Universidad Nacional Autónoma de México
-y tienen como fin dar una pequeña introducción a la programación en Python, CUDA y la intercomunicación de estos dos 
-lenguajes utilizando PyCUDA. Se agregan aquí varios Notebooks de iPython y sus contrapartes en .tex.
+Las notas que se encuentran en esta carpeta fueron escritas con la intención de enseñar el lenguaje de programación CUDA C al lector, asi como el paradigma de la programación en paralelo. Puede tomarse como un curso introductorio a cursos de programación utilizando procesadores gráficos.
 
-Si existen sugerencias o se detectan algunas erratas en las notas, comunicarse al correo uri.fisico@ciencias.unam.mx.
+Si existen sugerencias o se detectan algunas erratas en las notas, comunicarse a los correos
+- uri.fisico@ciencias.unam.mx
+- leonardo_castro@ciencias.unam.mx

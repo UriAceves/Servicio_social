@@ -1,4 +1,4 @@
-Servicio_social
+Servicio social
 ===============
 
 Una introducción a Python, CUDA y PyCUDA para científicos, en español. Archivos .tex y notebooks.

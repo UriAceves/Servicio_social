@@ -12,7 +12,7 @@ Las notas se dividen en dos partes.
 
 - [Instalación de CUDA C](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/Parte%201%20-%20Nb%200%20-%20Instalacion%20CUDA%20Ubuntu.ipynb)
 - [Procesadores gráficos y CUDA](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/Parte%201%20-%20Nb%201%20-%20Procesadores%20graficos%2C%20CUDA%20y%20PyCUDA.ipynb)
--[Bases de CUDA](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/Parte%201%20-%20Nb%202%20-%20Bases%20de%20CUDA.ipynb)
+- [Bases de CUDA](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/Parte%201%20-%20Nb%202%20-%20Bases%20de%20CUDA.ipynb)
 - [Multiplicación de vectores](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/Parte%201%20-%20Nb%203%20-%20Multiplicacion%20de%20Vectores.ipynb)
 - [Patrones de comunicación](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/Parte%201%20-%20Nb%204%20-%20Patrones%20de%20Comunicacion.ipynb)
 - [Multiplicación de matrices](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/Parte%201%20-%20Nb%205%20-%20Multiplicacion%20de%20Matrices.ipynb)

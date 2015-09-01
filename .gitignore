@@ -1,2 +1,5 @@
 .ipynb_chekpoints/ #I don't need the checkpoints but this seems doesn't care
 *~ #Also I don't need this garbage
+README.md~
+Parte 1 - CUDA C/.ipynb_checkpoints/
+Parte 2 - PyCUDA y aplicaciones/.ipynb_checkpoints/

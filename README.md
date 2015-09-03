@@ -26,7 +26,7 @@ Las notas se dividen en dos partes.
 
 - [Instalación de CUDA C](https://github.com/UriAceves/Servicio_social/blob/master/Ap%C3%A9ndices/01%20-%20Instalacion%20CUDA%20Ubuntu.ipynb)
 - [Instalación de git, julia y el ipython notebook](https://github.com/UriAceves/Servicio_social/blob/master/Ap%C3%A9ndices/02%20-%20Git%20basico.ipynb)
-- [Números aleatorios con CUDA](https://github.com/UriAceves/Servicio_social/blob/master/Ap%C3%A9ndices/03%20-%20cuRAND%20con%20CUDA%20C.ipynb)
+- [Números aleatorios con CUDA C](https://github.com/UriAceves/Servicio_social/blob/master/Ap%C3%A9ndices/03%20-%20cuRAND%20con%20CUDA%20C.ipynb)
 
 
 Si existen sugerencias o se detectan algunas erratas en las notas, comunicarse a los correos

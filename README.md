@@ -17,8 +17,8 @@ Las notas se dividen en dos partes.
 
 ##Parte II
 
-- [Introducción a PyCUDA](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/01%20-%20Introducci%C3%B3n%20a%20PyCUDA.ipynb)
-- [Distribuciones de probabilidad](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/02%20-%20Distribuciones%20de%20Probabilidad.ipynb)
+- [Introducción a PyCUDA](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/01%20-%20Introduccion%20a%20PyCUDA.ipynb)
+- [Distribuciones de probabilidad](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/02%20-%20Distribuciones%20de%20probabilidad.ipynb)
 - [Caminantes aleatorios](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/03%20-%20Caminantes%20aleatorios.ipynb)
 - [Ecuación maestra](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/04%20-%20Ecuacion%20maestra.ipynb)
 - [Cadenas de Markov](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/05%20-%20Cadenas%20de%20Markov.ipynb)

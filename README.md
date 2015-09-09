@@ -36,6 +36,6 @@ Las notas se dividen en dos partes principales:
 [Números aleatorios con CUDA C](https://github.com/UriAceves/Servicio_social/blob/master/Ap%C3%A9ndices/03%20-%20cuRAND%20con%20CUDA%20C.ipynb) | Terminado
 
 
-Si existen sugerencias o se detectan algunas erratas en las notas, comunicarse a los correos
+Si existen sugerencias o se detectan algunas erratas en las notas, comunicarse a los correos:
 - uri.fisico@ciencias.unam.mx
 - leonardo_castro@ciencias.unam.mx

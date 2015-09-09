@@ -1,6 +1,11 @@
 Una introducción a CUDA C para científicos
 ===============
 
+> “If debugging is the process of removing bugs, 
+> then programming must be the process of putting them 
+> in.” (Edsger W. Dijkstra)
+
+
 Las notas que se encuentran en esta carpeta fueron escritas con la intención de enseñar el lenguaje de programación CUDA C al lector, asi como el paradigma de la programación en paralelo. Puede tomarse como un curso introductorio a cursos de programación utilizando procesadores gráficos.
 
 Las notas se dividen en dos partes principales:

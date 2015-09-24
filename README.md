@@ -14,7 +14,7 @@ Las notas se dividen en dos partes principales:
 
 | Capítulo              | Estado        |
 ---|:--
-[Procesadores gráficos y CUDA](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/01%20-%20Procesadores%20graficos%2C%20CUDA%20y%20PyCUDA.ipynb) | En proceso
+[Procesadores gráficos y CUDA](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/01%20-%20Procesadores%20graficos%2C%20CUDA%20y%20PyCUDA.ipynb) | Terminado
 [Bases de CUDA](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/02%20-%20Bases%20de%20CUDA.ipynb) | Terminado
 [Multiplicación de vectores](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/03%20-%20Multiplicacion%20de%20vectores.ipynb) | Terminado
 [Patrones de comunicación](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/04%20-%20Patrones%20de%20comunicacion.ipynb) | Terminado

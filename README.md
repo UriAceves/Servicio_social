@@ -19,7 +19,7 @@ Las notas se dividen en dos partes principales:
 [Multiplicación de vectores](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/03%20-%20Multiplicacion%20de%20vectores.ipynb) | Terminado
 [Patrones de comunicación](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/04%20-%20Patrones%20de%20comunicacion.ipynb) | Terminado
 [Multiplicación de matrices](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/05%20-%20Multiplicacion%20de%20matrices.ipynb) | Terminado
-[Programación en partición](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/06%20-%20Tiled%20Programmation.ipynb) | Terminado
+[Programación con tecelas](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/06%20-%20Programacion%20con%20tecelas.ipynb) | Terminado
 [Ejercicios](https://github.com/UriAceves/Servicio_social/blob/master/Parte%201%20-%20CUDA%20C/07%20-%20Ejercicios.ipynb) | Terminado
 
 ##Parte II

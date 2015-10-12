@@ -32,6 +32,7 @@ Las notas se dividen en dos partes principales:
 [Ecuación maestra](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/04%20-%20Ecuacion%20maestra.ipynb) | Terminado
 [Cadenas de Markov](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/05%20-%20Cadenas%20de%20Markov.ipynb) | Terminado
 [Impresiones y tiempos](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/06%20-%20Impresiones%20y%20tiempos%20en%20PyCUDA.ipynb) | En proceso
+[Operaciones con matrices](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/07%20-%20Operaciones%20con%20matrices.ipynb) | Terminado
 
 ##Apéndices
 

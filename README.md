@@ -6,7 +6,7 @@ Una introducción a CUDA C para científicos
 > in.” (Edsger W. Dijkstra)
 
 
-Las notas que se encuentran en esta carpeta fueron escritas con la intención de enseñar el lenguaje de programación CUDA C al lector, asi como el paradigma de la programación en paralelo. Puede tomarse como un curso introductorio a cursos de programación utilizando procesadores gráficos.
+Las notas que se encuentran en esta carpeta fueron escritas con la intención de enseñar el lenguaje de programación CUDA C al lector, asi como el paradigma de la programación en paralelo. Puede tomarse como un curso introductorio a cursos de programación utilizando procesadores gráficos. El propósito principal de las notas es mostrar lo básico de CUDA y PyCUDA para que al completar la lectura y los ejercicios, el lector sea capaz de hacer sus propios programas en paralelo y tenga la posibilidad de acercarse a libros de enseñanza de CUDA tales como [CUDA by Example](https://developer.nvidia.com/content/cuda-example-introduction-general-purpose-gpu-programming-0) o [Programming Massively Parallel Processors](https://developer.nvidia.com/content/programming-massively-parallel-processors-hands-approach) y el lenguaje no sea tan árido como para una persona que nunca ha lidiado con C.
 
 Las notas se dividen en dos partes principales:
 
@@ -31,7 +31,8 @@ Las notas se dividen en dos partes principales:
 [Caminantes aleatorios](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/03%20-%20Caminantes%20aleatorios.ipynb) | Terminado
 [Ecuación maestra](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/04%20-%20Ecuacion%20maestra.ipynb) | Terminado
 [Cadenas de Markov](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/05%20-%20Cadenas%20de%20Markov.ipynb) | Terminado
-[Impresiones y tiempos](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/06%20-%20Impresiones%20y%20tiempos%20en%20PyCUDA.ipynb) | En proceso
+[Impresiones y tiempos](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/06%20-%20Impresiones%20y%20tiempos%20en%20PyCUDA.ipynb) | Terminado
+[Operaciones con matrices](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/07%20-%20Operaciones%20con%20matrices.ipynb) | Terminado
 
 ##Apéndices
 
@@ -40,6 +41,9 @@ Las notas se dividen en dos partes principales:
 [Instalación de CUDA C](https://github.com/UriAceves/Servicio_social/blob/master/Ap%C3%A9ndices/01%20-%20Instalacion%20CUDA%20Ubuntu.ipynb) | Terminado
 [Instalación de git, julia y el ipython notebook](https://github.com/UriAceves/Servicio_social/blob/master/Ap%C3%A9ndices/02%20-%20Git%20basico.ipynb) | Terminado
 [Números aleatorios con CUDA C](https://github.com/UriAceves/Servicio_social/blob/master/Ap%C3%A9ndices/03%20-%20cuRAND%20con%20CUDA%20C.ipynb) | Terminado
+===
+
+Se pueden encontrar otras notas de PyCUDA hechas por *Roberto Antonio Zamora Zamora* con un enfoque diferente [aquí](https://github.com/zamorays/miniCursoPycuda), se les sugiere a los lectores interesados en aprender más del tema, se acerquen a este sitio.
 
 ===
 

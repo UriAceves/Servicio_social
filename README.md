@@ -43,7 +43,7 @@ Las notas se dividen en dos partes principales:
 [Números aleatorios con CUDA C](https://github.com/UriAceves/Servicio_social/blob/master/Ap%C3%A9ndices/03%20-%20cuRAND%20con%20CUDA%20C.ipynb) | Terminado
 ===
 
-Se pueden encontrar otras notas de PyCUDA hechas por *Roberto Antonio Zamora Zamora* con un enfoque diferente [aquí](https://github.com/zamorays/miniCursoPycuda), se les sugiere a los lectores interesados se acerquen a este sitio.
+Se pueden encontrar otras notas de PyCUDA hechas por *Roberto Antonio Zamora Zamora* con un enfoque diferente [aquí](https://github.com/zamorays/miniCursoPycuda), se les sugiere a los lectores interesados en aprender más del tema, se acerquen a este sitio.
 
 ===
 

@@ -6,7 +6,7 @@ Una introducción a CUDA C para científicos
 > in.” (Edsger W. Dijkstra)
 
 
-Las notas que se encuentran en esta carpeta fueron escritas con la intención de enseñar el lenguaje de programación CUDA C al lector, asi como el paradigma de la programación en paralelo. Puede tomarse como un curso introductorio a cursos de programación utilizando procesadores gráficos.
+Las notas que se encuentran en esta carpeta fueron escritas con la intención de enseñar el lenguaje de programación CUDA C al lector, asi como el paradigma de la programación en paralelo. Puede tomarse como un curso introductorio a cursos de programación utilizando procesadores gráficos. El propósito principal de las notas es mostrar lo básico de CUDA y PyCUDA para que al completar la lectura y los ejercicios, el lector sea capaz de hacer sus propios programas en paralelo y tenga la posibilidad de acercarse a libros de enseñanza de CUDA tales como [CUDA by Example](https://developer.nvidia.com/content/cuda-example-introduction-general-purpose-gpu-programming-0) o [Programming Massively Parallel Processors](https://developer.nvidia.com/content/programming-massively-parallel-processors-hands-approach) y el lenguaje no sea tan árido como para una persona que nunca ha lidiado con C.
 
 Las notas se dividen en dos partes principales:
 
@@ -40,6 +40,9 @@ Las notas se dividen en dos partes principales:
 [Instalación de CUDA C](https://github.com/UriAceves/Servicio_social/blob/master/Ap%C3%A9ndices/01%20-%20Instalacion%20CUDA%20Ubuntu.ipynb) | Terminado
 [Instalación de git, julia y el ipython notebook](https://github.com/UriAceves/Servicio_social/blob/master/Ap%C3%A9ndices/02%20-%20Git%20basico.ipynb) | Terminado
 [Números aleatorios con CUDA C](https://github.com/UriAceves/Servicio_social/blob/master/Ap%C3%A9ndices/03%20-%20cuRAND%20con%20CUDA%20C.ipynb) | Terminado
+===
+
+Se pueden encontrar otras notas de PyCUDA hechas por *Roberto Antonio Zamora Zamora* con un enfoque diferente [aquí](https://github.com/zamorays/miniCursoPycuda), se les sugiere a los lectores interesados se acerquen a este sitio.
 
 ===
 

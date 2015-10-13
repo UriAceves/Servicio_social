@@ -8,8 +8,10 @@ __global__ void suma(int * d_arreglo){
 	int idx_y = blockIdx.y*blockDim.y + threadIdx.y ;
 
 	for (int t = 0; t < 1000; t ++) {
-		d_arreglo[idx_x*blockDim.x + idx_y] += 1 ;
-		__syncthreads() ;
+		if (idx_x*blockDim.x + idx_y < 1536) {
+		  d_arreglo[idx_x*blockDim.x + idx_y] += 1 ;
+		  __syncthreads() ;
+		}
 	}
 	
 }
@@ -77,9 +79,6 @@ int main(int argc, char ** argv){
 	printf("El resultado final es %d\n", resultado) ;
  	printf("Tiempo de ejecucion del kernel %f ms\n", milliseconds) ;
 	
-	// Liberamos la memoria con cudaFree() y cudaEventDestroy() para start y stop
-	cudaEventDestroy(&start) ;
-	cudaEventDestroy(&stop)
 	cudaFree(d_arreglo) ;
 
 	return 0 ;

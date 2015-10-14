@@ -37,3 +37,5 @@ pyCUDA](http://bredsaal.dk/solving-projecteuler-with-pycuda)
 
 ![](http://www.cgc.maricopa.edu/services/technology-support/tss/newsletter/
 PublishingImages/Spring%2011/smiley_face_computer_key_4cadeb75badf2.jpg)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

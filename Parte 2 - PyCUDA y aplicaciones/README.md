@@ -35,5 +35,5 @@ pyCUDA](http://bredsaal.dk/solving-projecteuler-with-pycuda)
 
 ## ¡Ánimo en su camino!
 
-![](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%
-20PyCUDA%20y%20aplicaciones/Imagenes/smiley.jpg)
+![](https://raw.githubusercontent.com/UriAceves/Servicio_social/master/Parte%202
+%20-%20PyCUDA%20y%20aplicaciones/Imagenes/smiley.jpg)

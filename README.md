@@ -44,6 +44,10 @@ Las notas se dividen en dos partes principales:
 
 ===
 
+Se pueden encontrar otras notas de PyCUDA hechas por *Roberto Antonio Zamora Zamora* con un enfoque diferente [aquí](https://github.com/zamorays/miniCursoPycuda), se les sugiere a los lectores interesados en aprender más del tema, se acerquen a este sitio.
+
+===
+
 Una aclaración pertinente es el hecho de que no somos expertos en el tema de programación en paralelo, o el uso de CUDA y/o PyCUDA
 sino que estas notas son el resultado de nuestro progreso desde no saber nada de CUDA hasta el punto
 en que nos encontramos actualmente. Las notas fueron escritas a la par que fuimos aprendiendo y al final se revisaron para pulir detalles.
@@ -55,10 +59,6 @@ por su paciencia, sus acertadas observaciones, y proveernos un lugar para trabaj
 
 Esperamos que estas notas cumplan su propósito: ayudar en la enseñanza y formación de científicos de calidad, para México y
 América Latina. Que realmente este servicio social sea lo que su nombre pregona.
-
-===
-
-Se pueden encontrar otras notas de PyCUDA hechas por *Roberto Antonio Zamora Zamora* con un enfoque diferente [aquí](https://github.com/zamorays/miniCursoPycuda), se les sugiere a los lectores interesados en aprender más del tema, se acerquen a este sitio.
 
 ===
 

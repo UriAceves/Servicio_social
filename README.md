@@ -1,4 +1,4 @@
-Una introducción a CUDA C para científicos
+Una introducción a CUDA y PyCUDA para científicos
 ===============
 
 > “If debugging is the process of removing bugs, 
@@ -41,6 +41,21 @@ Las notas se dividen en dos partes principales:
 [Instalación de CUDA C](https://github.com/UriAceves/Servicio_social/blob/master/Ap%C3%A9ndices/01%20-%20Instalacion%20CUDA%20Ubuntu.ipynb) | Terminado
 [Instalación de git, julia y el ipython notebook](https://github.com/UriAceves/Servicio_social/blob/master/Ap%C3%A9ndices/02%20-%20Git%20basico.ipynb) | Terminado
 [Números aleatorios con CUDA C](https://github.com/UriAceves/Servicio_social/blob/master/Ap%C3%A9ndices/03%20-%20cuRAND%20con%20CUDA%20C.ipynb) | Terminado
+
+===
+
+Una aclaración pertinente es el hecho de que no somos expertos en el tema de programación en paralelo, o el uso de CUDA y/o PyCUDA
+sino que estas notas son el resultado de nuestro progreso desde no saber nada de CUDA hasta el punto
+en que nos encontramos actualmente. Las notas fueron escritas a la par que fuimos aprendiendo y al final se revisaron para pulir detalles.
+Si se complementan con algunos métodos numéricos bien podrían tener valía para un curso semestral de 3 horas semanales.
+
+Agradecemos a la [Facultad de Ciencias](http://www.fciencias.unam.mx/) de la [UNAM](https://www.unam.mx/) por la educación y
+las oportunidades que nos brindaron. Al [Dr. David P. Sanders](http://sistemas.fciencias.unam.mx/~dsanders/), nuestro tutor
+por su paciencia, sus acertadas observaciones, y proveernos un lugar para trabajar durante el desarrollo del proyecto.
+
+Esperamos que estas notas cumplan su propósito: ayudar en la enseñanza y formación de científicos de calidad, para México y
+América Latina. Que realmente este servicio social sea lo que su nombre pregona.
+
 ===
 
 Se pueden encontrar otras notas de PyCUDA hechas por *Roberto Antonio Zamora Zamora* con un enfoque diferente [aquí](https://github.com/zamorays/miniCursoPycuda), se les sugiere a los lectores interesados en aprender más del tema, se acerquen a este sitio.

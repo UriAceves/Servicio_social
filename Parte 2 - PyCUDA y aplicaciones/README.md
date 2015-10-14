@@ -35,4 +35,4 @@ pyCUDA](http://bredsaal.dk/solving-projecteuler-with-pycuda)
 
 ## ¡Ánimo en su camino!
 
-![Image of Yaktocat](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/Imagenes/smiley.jpg)
+![Smiley final](https://github.com/UriAceves/Servicio_social/blob/master/Parte%202%20-%20PyCUDA%20y%20aplicaciones/Imagenes/smiley.jpg "May the force be with you")

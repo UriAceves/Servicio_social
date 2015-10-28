@@ -54,8 +54,7 @@ en que nos encontramos actualmente. Las notas fueron escritas a la par que fuimo
 Si se complementan con algunos métodos numéricos bien podrían tener valía para un curso semestral de 3 horas semanales.
 
 Agradecemos a la [Facultad de Ciencias](http://www.fciencias.unam.mx/) de la [UNAM](https://www.unam.mx/) por la educación y
-las oportunidades que nos brindaron. Al [Dr. David P. Sanders](http://sistemas.fciencias.unam.mx/~dsanders/), nuestro tutor
-por su paciencia, sus acertadas observaciones, y proveernos un lugar para trabajar durante el desarrollo del proyecto.
+las oportunidades que nos brindaron. Al [Dr. David P. Sanders](http://sistemas.fciencias.unam.mx/~dsanders/) ([perfil de GitHub](https://github.com/dpsanders)), nuestro tutor por su paciencia, sus acertadas observaciones, y proveernos un lugar para trabajar durante el desarrollo del proyecto.
 
 Esperamos que estas notas cumplan su propósito: ayudar en la enseñanza y formación de científicos de calidad, para México y
 América Latina. Que realmente este servicio social sea lo que su nombre pregona.

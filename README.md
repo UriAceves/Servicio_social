@@ -5,8 +5,9 @@ Una introducción a CUDA y PyCUDA para científicos
 > then programming must be the process of putting them 
 > in.” (Edsger W. Dijkstra)
 
+Escritas por: Uriel Aceves y Leonardo Castro
 
-Las notas que se encuentran en esta carpeta fueron escritas con la intención de enseñar el lenguaje de programación CUDA C al lector, asi como el paradigma de la programación en paralelo. Puede tomarse como un curso introductorio a cursos de programación utilizando procesadores gráficos. El propósito principal de las notas es mostrar lo básico de CUDA y PyCUDA para que al completar la lectura y los ejercicios, el lector sea capaz de hacer sus propios programas en paralelo y tenga la posibilidad de acercarse a libros de enseñanza de CUDA tales como [CUDA by Example](https://developer.nvidia.com/content/cuda-example-introduction-general-purpose-gpu-programming-0) o [Programming Massively Parallel Processors](https://developer.nvidia.com/content/programming-massively-parallel-processors-hands-approach) y el lenguaje no sea tan árido como para una persona que nunca ha lidiado con C.
+Las notas que se encuentran en esta carpeta fueron escritas como parte de nuestro servicio social durante nuestra licenciatura en Física en la UNAM, con la intención de enseñar el lenguaje de programación CUDA C al lector, asi como el paradigma de la programación en paralelo. Puede tomarse como un curso introductorio a cursos de programación utilizando procesadores gráficos. El propósito principal de las notas es mostrar lo básico de CUDA y PyCUDA para que al completar la lectura y los ejercicios, el lector sea capaz de hacer sus propios programas en paralelo y tenga la posibilidad de acercarse a libros de enseñanza de CUDA tales como [CUDA by Example](https://developer.nvidia.com/content/cuda-example-introduction-general-purpose-gpu-programming-0) o [Programming Massively Parallel Processors](https://developer.nvidia.com/content/programming-massively-parallel-processors-hands-approach) y el lenguaje no sea tan árido como para una persona que nunca ha lidiado con C.
 
 Las notas se dividen en dos partes principales:
 
